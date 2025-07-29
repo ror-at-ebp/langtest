@@ -1,6 +1,5 @@
 Package: langtest
 Title: What the Package Does (One Line, Title Case)
-Language: de
 Version: 0.0.1
 Authors@R: c(
     person("Remo", "Röthlin", email = "remo.roethlin@ebp.ch", role = "cre"),
