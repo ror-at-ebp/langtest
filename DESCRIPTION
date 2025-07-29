@@ -2,12 +2,13 @@ Package: langtest
 Title: What the Package Does (One Line, Title Case)
 Language: de
 Version: 0.0.1
-Authors@R: 
-    person("First", "Last", "first.last@example.com", role = c("aut", "cre")),
-    person("First", "Last", "first.last@example.com", role = c("ctb"))
+Authors@R: c(
+    person("Remo", "Röthlin", email = "remo.roethlin@ebp.ch", role = "cre"),
+    person("Contributor", "Number2", role = "ctb"),
+    person("Funding, agency", role = c("cph", "fnd")))
 Description: What the package does (one paragraph).
-License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
-    license
+License: GPL (>= 3)
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.2
+URL: https://ror-at-ebp.github.io/langtest/
