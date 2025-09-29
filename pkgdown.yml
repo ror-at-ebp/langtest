@@ -2,7 +2,7 @@ pandoc: 3.1.11
 pkgdown: 2.1.3
 pkgdown_sha: ~
 articles: {}
-last_built: 2025-09-29T13:13Z
+last_built: 2025-09-29T14:41Z
 urls:
   reference: https://ror-at-ebp.github.io/langtest/reference
   article: https://ror-at-ebp.github.io/langtest/articles
